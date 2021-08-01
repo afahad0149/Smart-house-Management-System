@@ -1,0 +1,4 @@
+One of the additional features that we can add to this project is a gas leak detection system. 
+A MQ-2 Gas Sensor is one of the most widely used Gas Sensors to detect LPG and can be fit in the kitchen easily. If it can detect the gas levels are higher than normal in the kitchen, it may automatically send a signal to start the exhaust fan. 
+Additionally, it can send signals to an actuator which can then tighten the gas valve connected to the main line. If there is still no change in the gas levels, the system can also sound an alarm after a certain waiting period and alert the authorities. 
+In this way, the safety can be ensured from the gas leakage in our system.
